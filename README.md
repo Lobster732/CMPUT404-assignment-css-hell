@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Contribuatos
 
+    Dylan Cassidy
+
+People I talked to (but did not work directly with me)
+
+    Thomas Curnow
+    Mickael Zerihoun
+    Glenn Meyer
